@@ -1,0 +1,12 @@
+name: RFinalProj
+title: RFinalProj
+username: iantheliu
+account: iantheliu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13587170
+bundleId: 9558292
+url: https://iantheliu.shinyapps.io/RFinalProj/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
