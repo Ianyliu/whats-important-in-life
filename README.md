@@ -1,12 +1,13 @@
-# Final Project
+<h1 align="center">Internal Factor vs External Factor: The Role of Randomness in Success and Failure</h1>
 
-**Internal Factor vs External Factor: The Role of Randomness in Success and Failure**
+Part of a R Final Project
 
 **Simulation** by Man-Fang Liang, **Report** **& Description** by Shan Su, **R Shiny App** by Ian Liu 
 
 **R SHINY APP LINK:** [https://iantheliu.shinyapps.io/RFinalProj/](https://iantheliu.shinyapps.io/RFinalProj/)
 
-![R Final Project.drawio.svg](www/R_Final_Project.drawio.svg)
+
+<img width="1000" src="www/R%20Final%20Project.drawio.svg" alt="R Final Project Workflow" align = "center">
 
 Here is the paper source we cite for our project: [https://arxiv.org/abs/1802.07068](https://arxiv.org/abs/1802.07068) 
 
